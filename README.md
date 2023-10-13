@@ -1,6 +1,6 @@
 # city_explorer_app
 
-A new Flutter project.
+A tourism app for the city of Dubai!
 
 ## Getting Started
 
