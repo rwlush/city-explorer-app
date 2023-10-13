@@ -1,4 +1,4 @@
-# city_explorer_dubai
+# city_explorer_app
 
 A new Flutter project.
 
