@@ -131,19 +131,22 @@ List<Activity> getActivitiesForCategory(String category) {
   } else if (category == 'Nightlife Revelers') {
     return [
       Activity(
-        title: 'Activity 1',
-        description: 'Description for Activity 1',
-        imagePath: 'dubai.jpg',
+        title: 'Dubai Marina',
+        description:
+            'Take a nightime walk around the iconic Dubai Marina, an area offering plenty of places check out. Try a yacht ride down the artificial canal!',
+        imagePath: 'marina.jpg',
       ),
       Activity(
-        title: 'Activity 2',
-        description: 'Description for Activity 2',
-        imagePath: 'dubai.jpg',
+        title: 'Burj Khalifa Night Views',
+        description:
+            'Visit the Burj Khalifa to watch the nightime bustle of the city from the tallest building in the world! You might catch a sunset too!',
+        imagePath: 'burjnighttime.jpg',
       ),
       Activity(
-        title: 'Activity 3',
-        description: 'Description for Activity 3',
-        imagePath: 'dubai.jpg',
+        title: 'Clubbing',
+        description:
+            'Dubai boasts a bustling nightlife with plenty of high profile clubs, restaurants, and lounges! Don\'t be afraid to let loose!',
+        imagePath: 'club.jpg',
       ),
       // Add more activities here
     ];

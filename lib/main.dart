@@ -14,6 +14,8 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Dubai City Itinerary',
       theme: ThemeData(
+        primaryColor: const Color.fromARGB(255, 94, 90, 42),
+        scaffoldBackgroundColor: const Color(0x00d5883a),
         colorScheme: ColorScheme.fromSeed(seedColor: const Color(0x00d5883a)),
         useMaterial3: true,
       ),
